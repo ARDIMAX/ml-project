@@ -1,5 +1,7 @@
 # IntelliJ project files
+.idea/
 .idea
+requirements.txt
 *.iml
 out
 gen
