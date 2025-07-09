@@ -19,6 +19,7 @@ requirements.txt
 *.iml
 out
 gen
+project_1_original.ipynb
 
 # System files
 .DS_Store
